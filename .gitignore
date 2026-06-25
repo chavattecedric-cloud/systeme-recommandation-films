@@ -5,9 +5,6 @@ data_API_V2.csv
 data_patrickV2.csv
 *.csv
 
-# Power BI
-*.pbix
-
 # Python
 __pycache__/
 *.pyc
