@@ -2,6 +2,12 @@
 
 Application de recommandation de films basée sur le Machine Learning (algorithme KNN), enrichie avec les données de l'API OMDB.
 
+### 🚀 Démo en ligne
+
+**[▶️ Tester l'application (Hugging Face Space)](https://huggingface.co/spaces/chavattecedric/systeme-recommandation-films)**
+
+Aucune installation requise : choisis un film et reçois 5 recommandations avec affiches, résumés traduits en français, notes et informations.
+
 ---
 
 ## 📋 Description
