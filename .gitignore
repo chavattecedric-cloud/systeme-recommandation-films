@@ -1,0 +1,22 @@
+# Fichiers de données et modèles générés (trop volumineux pour GitHub)
+*.joblib
+dfimdbML3_V2.csv
+data_API_V2.csv
+data_patrickV2.csv
+*.csv
+
+# Power BI
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Divers
+old/
+temp/
+*.zip
+.DS_Store
